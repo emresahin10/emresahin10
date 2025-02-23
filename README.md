@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**emresahin10/emresahin10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Emre Şahin! 👋
 
 [![3H0XbWl.md.jpg](https://iili.io/3H0XbWl.md.jpg)](https://freeimage.host/i/3H0XbWl)
