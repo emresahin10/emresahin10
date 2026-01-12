@@ -2,9 +2,6 @@
 
 [![3H0XbWl.md.jpg](https://iili.io/3H0XbWl.md.jpg)](https://freeimage.host/i/3H0XbWl)
 
-## Personal Website  
-
-- [Personal Website](https://emresahin.tech)
 
 ## About Me
 
